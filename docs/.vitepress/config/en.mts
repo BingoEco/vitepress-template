@@ -20,7 +20,7 @@ export const en = defineConfig({
 
     footer: {
       message: "Released under the MIT License.",
-      copyright: "Copyright © 2019-present Your Name",
+      copyright: `Copyright © 2019-${new Date().getFullYear()} Your Name`,
     },
   },
 });
