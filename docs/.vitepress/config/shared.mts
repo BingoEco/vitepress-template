@@ -59,7 +59,7 @@ export const shared = defineConfig({
     logo: { src: "/vitepress-logo-mini.svg", width: 24, height: 24 },
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/BingoEco/vitepress-template" },
     ],
 
     search: {
