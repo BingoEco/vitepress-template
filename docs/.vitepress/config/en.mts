@@ -39,7 +39,7 @@ function nav(): DefaultTheme.NavItem[] {
     },
     {
       text: "Demo",
-      link: "https://github.com/vuejs/vitepress",
+      link: "https://vitepress-template.oby.ink/",
     },
     {
       text: "Learn more",
