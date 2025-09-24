@@ -56,7 +56,7 @@ function nav(): DefaultTheme.NavItem[] {
     },
     {
       text: "演示",
-      link: "https://github.com/vuejs/vitepress",
+      link: "https://vitepress-template.oby.ink/",
     },
     {
       text: "了解更多",
